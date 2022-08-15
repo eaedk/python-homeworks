@@ -4,6 +4,10 @@
 
 This repository contains homeworks you shoud take. It will help you for the imcoming python assessment.
 
+# Assignments
+Find the list of the assignment to do bellow:
+- [Umbrella](/umbrella/)
+
 ## Setup
 Install the required packages to be able to run the evaluation locally.
 

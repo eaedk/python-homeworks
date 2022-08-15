@@ -9,7 +9,9 @@ Her day is divided in three parts : morning, afternoon and evening.
 - She will keep her umbrella in her bag if the weather is `sunny` or `cloudy`.
 - She will always start the day with the umbrella in her bag, no matter the previous day's weather.
 
-Write a function that takes a list of weathers and returns how many times Simone will take her umbrella out of her bag.
+**Instruction**
+In `solution.py`, implement the function left empty for that purpose.
+The function takes a list of weathers and should return how many times Simone will take her umbrella out of her bag.
 
 
 **Examples**:
