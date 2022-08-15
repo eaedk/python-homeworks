@@ -21,10 +21,12 @@ You need to have [`Python3`](https://www.python.org/) on your system. Then you c
 This evaluation will be automatically grade, so please follow the instructions carefully. 
 
 You can run this command bellow being at the root of the repository to be sure your solutions are the good ones before to push your solutions.
+Be sure the virtual environment `venv` is activated then thype the command bellow: 
+ 
 ```command
 python -m pytest -v
 ```
 
 ```command
-python -m pytest -v <exercise_name>/tests
+python -m pytest -v tests/<exercise_name>
 ```
