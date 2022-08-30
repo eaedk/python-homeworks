@@ -1,6 +1,6 @@
 # Challenge - Umbrella
 
-![](https://images.unsplash.com/photo-1457131760772-7017c6180f05?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1036&q=80)
+![](https://images.unsplash.com/photo-1519448038335-a2260080203b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80)
 
 ## **Description**:
 Every morning, Simone puts her umbrella in her bag.
